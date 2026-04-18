@@ -15,5 +15,5 @@ A smart and intuitive **AI-powered Resume Builder** that helps users create prof
 - **Frontend**: React, Vite, Tailwind CSS  
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
-- **AI Integration**: OpenAI API (for enhancing text content)  
-- **Authentication**: JWT / OAuth (if implemented) 
+- **AI Integration**: GROQ API (for enhancing text content)  
+- **Authentication**: JWT / OAuth 
